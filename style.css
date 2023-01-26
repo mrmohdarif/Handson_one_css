@@ -1,0 +1,42 @@
+h1 {
+  color: red;
+}
+h2 {
+  color: red;
+}
+h3 {
+  color: red;
+  font-style: italic;
+}
+body {
+  color: brown;
+}
+ol li {
+  line-height: 3;
+}
+.underline {
+  text-decoration: line-through;
+  font-weight: bold;
+  font-size: 16px;
+}
+.mark,
+.ul-point {
+  background-color: yellow;
+  font-weight: bold;
+  font-size: 16px;
+}
+.URL-prepbyte {
+  background-color: yellow;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+  color: red;
+}
+.under-line-4 {
+  text-decoration: underline;
+}
+ul li {
+  line-height: 2;
+  letter-spacing: 2px;
+  font-weight: 550;
+}
